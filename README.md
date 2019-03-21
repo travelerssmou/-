@@ -1,6 +1,6 @@
-# 代做毕业
+# 代做毕设
 
-## 简介
+## 团队简介
   我们是一只优秀的团队，有着丰富的项目经验。为了帮助那些对自己专业缺乏兴趣或者专业能力不够的人来代写毕业设计。包括项目编写和毕业论文编写。
 可接项目类型：网站类项目、APP类项目、整个web项目和小程序项目。如有兴趣的朋友可想好课题，并扫描二维码联系我们。价格低廉，服务周到
    
@@ -9,7 +9,7 @@
   
 ### App项目展示
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" width = "400" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134158.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" padding = "20" width = "400" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134158.jpg" padding = "20" width = "400" height = "720">
 </div>
 
 <div class="half">
