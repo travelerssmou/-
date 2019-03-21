@@ -10,7 +10,7 @@
 ### App项目展示
 <div class="half">
     <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" padding = "20" width = "400" height = "720">
-  <img width = "20" height = "720"
+  <img width = "20" height = "720">
   <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134158.jpg" margin-left = "20" width = "400" height = "720">
 </div>
 
