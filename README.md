@@ -15,15 +15,15 @@
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134113.jpg" width = "400" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134137.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134113.jpg" width = "400" height = "720"><img width = "20" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134137.jpg" width = "400" height = "720">
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133945.jpg" width = "400" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133957.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133945.jpg" width = "400" height = "720"><img width = "20" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133957.jpg" width = "400" height = "720">
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134024.jpg" width = "400" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134100.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134024.jpg" width = "400" height = "720"><img width = "20" height = "720"><img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134100.jpg" width = "400" height = "720">
 </div>
 
 ### 
