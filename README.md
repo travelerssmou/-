@@ -29,6 +29,22 @@
   
 ### App项目展示
 ---
+
+社交软件
+<div class="half">
+    <img src="https://github.com/old-traveler/Here/blob/master/img/S80312-164610.jpg" padding = "20" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/Here/blob/master/img/S80312-163358.jpg" margin-left = "20" width = "300" height = "540">
+</div>
+
+<div class="half">
+    <img src="https://github.com/old-traveler/Here/blob/master/img/S80312-163438.jpg" padding = "20" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/Here/blob/master/img/S80312-163508.jpg" margin-left = "20" width = "300" height = "540">
+</div>
+
+
+兼职软件
 <div class="half">
     <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" padding = "20" width = "300" height = "540">
   <img width = "1" height = "540">
