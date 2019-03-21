@@ -9,36 +9,36 @@
   
 ### App项目展示
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" padding = "20" width = "400" height = "720">
-  <img width = "1" height = "720">
-  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134158.jpg" margin-left = "20" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134153.jpg" padding = "20" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134158.jpg" margin-left = "20" width = "300" height = "540">
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134113.jpg" width = "400" height = "720">
-  <img width = "1" height = "720">
-  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134137.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134113.jpg" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134137.jpg" width = "300" height = "540">
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133945.jpg" width = "400" height = "720">
-  <img width = "1" height = "720">
-  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133957.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133945.jpg" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-133957.jpg" width = "300" height = "540">
 </div>
 
 <div class="half">
-    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134024.jpg" width = "400" height = "720">
-  <img width = "1" height = "720">
-  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134100.jpg" width = "400" height = "720">
+    <img src="https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134024.jpg" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "https://github.com/old-traveler/SmallExcellent1/blob/master/img/S70511-134100.jpg" width = "300" height = "540">
 </div>
 
 ### 小程序作品展示
 
 
 <div class="half">
-    <img src="http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/d1447f35406c163d80b81e7a9e9dcb15.jpg" width = "400" height = "720">
-  <img width = "1" height = "720">
-  <img src = "http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/cefc0840408649b9803c9ca00fd67dbf.png" width = "400" height = "720">
+    <img src="http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/d1447f35406c163d80b81e7a9e9dcb15.jpg" width = "300" height = "540">
+  <img width = "1" height = "540">
+  <img src = "http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/cefc0840408649b9803c9ca00fd67dbf.png" width = "300" height = "540">
 </div>
 
 ### 网站作品展示
@@ -48,6 +48,6 @@
 
 ![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/7f3e84c440d0756c80594855512088ac.jpg)
 
-![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/5dd4e57340ccb11680bf5346f8b3a975.jpg.jpg)
+![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/5dd4e57340ccb11680bf5346f8b3a975.jpg)
 
 
