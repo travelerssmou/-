@@ -13,14 +13,17 @@
 <img src="http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/911b6bc74007f73f80ac9591bfc8333f.jpg" width = "300" height = "411">
 
 ## 往期合作记录
+---
 
 ![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/da5ca48c400832da80c90d570f702dbb.jpg)
 
-![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/bb4bf6ae409ef29e80d226d072384bb1.png)
+<img src="http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/bb4bf6ae409ef29e80d226d072384bb1.png" width = "300" height = "533">
+
 
 ![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/0ec1db7d40f66e6b80ebf8a530f95c4f.jpg)
 
-![](http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/4b6b94ae400a4b7180f78e6f085fa51e.png)
+<img src="http://bmob-cdn-10942.b0.upaiyun.com/2019/03/21/4b6b94ae400a4b7180f78e6f085fa51e.png" width = "300" height = "533">
+
 
 ## 团队优势
   团队有丰富的项目经验，在技术实现上，能确保快速稳定的实现毕业项目。以下是我们的项目展示
